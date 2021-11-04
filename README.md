@@ -1,4 +1,4 @@
-# Technical Test FastMobile using Express Js & MongoDB
+# Express Js & MongoDB
 
 make an endpoint for : 
 1. Register
