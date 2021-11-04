@@ -1,0 +1,42 @@
+{
+  "name": "technical-test-node-js-mnc-fm",
+  "version": "1.0.0",
+  "description": "Technical Test Node JS - MNC FM",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "muhmuntasir",
+  "license": "ISC",
+  "dependencies": {
+    "@thi.ng/atom": "^4.1.35",
+    "@thi.ng/checks": "^2.9.6",
+    "@thi.ng/compare": "^1.3.28",
+    "@thi.ng/compose": "^1.4.30",
+    "@thi.ng/date": "^0.4.0",
+    "@thi.ng/equiv": "^1.0.41",
+    "@thi.ng/iterators": "^5.1.63",
+    "@thi.ng/mime": "^0.5.1",
+    "@thi.ng/oquery": "^0.3.1",
+    "@thi.ng/paths": "^4.2.7",
+    "@thi.ng/strings": "^2.1.0",
+    "@thi.ng/system": "^0.3.4",
+    "@thi.ng/transducers": "^7.7.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.1",
+    "short-uuid": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

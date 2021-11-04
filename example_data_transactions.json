@@ -1,0 +1,46 @@
+[{
+  "_id": "9aa5bff1-75e2-4186-9741-34a74ea9c944",
+  "user": "356b3447-d2d2-4119-87a3-1b8bc7c5e52c",
+  "amount": 500000,
+  "status": "success",
+  "transaction_type": "credit",
+  "balance_before": 0,
+  "balance_after": 500000,
+  "type": "topup",
+  "remarks": "Topup 500000",
+  "target_user": "356b3447-d2d2-4119-87a3-1b8bc7c5e52c",
+  "created_date": {
+    "$date": "2021-11-04T16:04:33.039Z"
+  },
+  "__v": 0
+},{
+  "_id": "a9dbfa20-ec35-4e26-ae29-2754ab21afc2",
+  "user": "356b3447-d2d2-4119-87a3-1b8bc7c5e52c",
+  "amount": 100000,
+  "status": "success",
+  "transaction_type": "debit",
+  "balance_before": 500000,
+  "balance_after": 400000,
+  "type": "payment",
+  "remarks": "Pulsa Telkomsel 100k",
+  "target_user": "356b3447-d2d2-4119-87a3-1b8bc7c5e52c",
+  "created_date": {
+    "$date": "2021-11-04T16:04:40.513Z"
+  },
+  "__v": 0
+},{
+  "_id": "7ab8f735-2c06-4a62-8451-70f5d8dd7223",
+  "user": "356b3447-d2d2-4119-87a3-1b8bc7c5e52c",
+  "amount": 30000,
+  "status": "success",
+  "transaction_type": "debit",
+  "balance_before": 400000,
+  "balance_after": 370000,
+  "type": "transfer",
+  "remarks": "Hadiah Ultah",
+  "target_user": "70b66380-74aa-4db0-93ca-931605c1e739",
+  "created_date": {
+    "$date": "2021-11-04T16:04:53.684Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": "356b3447-d2d2-4119-87a3-1b8bc7c5e52c",
+  "first_name": "test",
+  "last_name": "user",
+  "phone_number": "0812345678922",
+  "address": "Jl.kebon sirih",
+  "pin": "$2a$08$pQK0RQAngdPQj2T6a86ebOIaTOMFdQBgRtCS3y27no1lJMi26QJ4.",
+  "refresh_token": "a0b7e197288d889b34611ea22cc3240cca832f623ac70934780f2ec6a66e3d4bbc55ac487d3eeaa1",
+  "created_date": {
+    "$date": "2021-11-04T14:39:41.743Z"
+  },
+  "__v": 0
+},{
+  "_id": "70b66380-74aa-4db0-93ca-931605c1e739",
+  "first_name": "test",
+  "last_name": "user",
+  "phone_number": "08123456789146",
+  "address": "Jl.kebon sirih",
+  "pin": "$2a$08$i1LBN7zgkKclKNUCniLS1etyybFPnUP5FTQ3YB6F/iSdLnrhVveV.",
+  "refresh_token": "1cceea466caf6fc35f9abce961492f72af1d493f158086486fa6a74908375b614911cb36e2410006",
+  "created_date": {
+    "$date": "2021-11-04T15:44:48.594Z"
+  },
+  "__v": 0
+}]
